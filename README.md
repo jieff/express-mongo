@@ -22,10 +22,10 @@ Teste a aplicação no seu navegador
 
 ## Segue um pequeno crud
 
-### .GET    - http://localhost/api/v1/user
-### .POST   - http://localhost/api/v1/user
-### .PUT    - http://localhost/api/v1/user/5da9ea674234635bdff45c02
-### .DELETE - http://localhost/api/v1/user/5da9ea674234635bdff45c02
+#### .GET    - http://localhost/api/v1/user
+#### .POST   - http://localhost/api/v1/user
+#### .PUT    - http://localhost/api/v1/user/5da9ea674234635bdff45c02
+#### .DELETE - http://localhost/api/v1/user/5da9ea674234635bdff45c02
 
 
 
