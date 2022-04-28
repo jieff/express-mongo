@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # docker + express + mongo
 ## containner docker, node com express e mongoDb, pequena inplementação inicial, api crud de usuários
 
@@ -25,8 +26,6 @@ Teste a aplicação no seu navegador
 . POST   - http://localhost/api/v1/user
 . PUT    - http://localhost/api/v1/user/5da9ea674234635bdff45c02
 . DELETE - http://localhost/api/v1/user/5da9ea674234635bdff45c02
-
-
 
 
 
